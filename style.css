@@ -34,8 +34,25 @@ h1 {
     border-radius: 10px;
 }
 
-.header-section {
+.header-section, .about-section {
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
 }
+
+.pdr-5 {
+    padding-right: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
